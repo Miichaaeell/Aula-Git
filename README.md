@@ -1,2 +1,2 @@
 # Aula Git
- primeiro repositorio versionado
+ Primeiro repositório versionado
